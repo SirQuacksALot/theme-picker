@@ -40,6 +40,17 @@ noctalia msg panel-toggle SirQuacksALot/theme-picker:picker
 | `show_nav_wallpapers` | bool | `true` | Show cross-panel navigation buttons in the Wallpapers panel. |
 | `show_nav_manager` | bool | `true` | Show cross-panel navigation buttons in the Manager. |
 
+## Screenshots
+
+### Theme Picker
+![Theme Picker](screenshots/picker.png)
+
+### Wallpapers
+![Wallpapers](screenshots/wallpapers.png)
+
+### Manager
+![Manager](screenshots/manager.png)
+
 ## License
 
 MIT
