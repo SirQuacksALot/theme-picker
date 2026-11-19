@@ -2,9 +2,11 @@
 
 A Noctalia plugin for picking and managing color theme + wallpaper category combinations. Each theme bundles a color scheme (builtin, community, or custom) with a curated set of wallpapers, so switching a theme applies both at once.
 
-<pre align="center">
+<div align="center">
+<pre>
 <a href="#plugin">Plugin</a> • <a href="#panels">Panels</a> • <a href="#bar-widgets">Bar Widgets</a> • <a href="#settings">Settings</a> • <a href="#screenshots">Screenshots</a>
 </pre>
+</div>
 
 ## Plugin
 
