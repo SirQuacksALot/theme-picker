@@ -4,7 +4,7 @@ A Noctalia plugin for picking and managing color theme + wallpaper category comb
 
 <div align="center">
 <pre>
-<a href="#plugin">Plugin</a> • <a href="#panels">Panels</a> • <a href="#bar-widgets">Bar Widgets</a> • <a href="#settings">Settings</a> • <a href="#screenshots">Screenshots</a>
+<a href="#plugin">Plugin</a> · <a href="#panels">Panels</a> · <a href="#bar-widgets">Bar Widgets</a> · <a href="#settings">Settings</a> · <a href="#screenshots">Screenshots</a>
 </pre>
 </div>
 
